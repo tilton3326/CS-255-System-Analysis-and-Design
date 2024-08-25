@@ -1,14 +1,12 @@
 # CS-255-System-Analysis-and-Design
 
 
-**DriverPass Project Overview:
-**
+**DriverPass Project Overview:**
 
 The DriverPass project centered on partnering with DriverPass, a company dedicated to developing an extensive online platform designed to assist individuals in passing their driving exams successfully on their first attempt. The platform provided a range of resources and tools, including practice exams, instructional videos, and the capability to schedule in-person training sessions with certified instructors. The system was meticulously designed to support various user roles, offering customized content and features tailored to both learners and instructors.
 
 **Project Performance and Areas for Enhancement:
 **
-
 During the project, I exhibited robust skills in several critical areas. I adeptly collected and documented detailed requirements, ensuring a thorough grasp of the client's vision and expectations. I crafted a comprehensive system design document that delineated the proposed system architecture, data models, user interfaces, and process flows. Furthermore, I maintained transparent communication with DriverPass, providing consistent updates and integrating their feedback into the design process.
 
 An area ripe for improvement involves refining the nonfunctional requirements within the business requirements document. Although the document captured essential performance, security, and usability aspects, there is room for enhancing the level of detail and specificity. This could entail conducting a more in-depth analysis of potential risks and constraints, as well as exploring additional measures to optimize system performance and security.
